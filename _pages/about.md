@@ -1,45 +1,41 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author_profile: yes
+redirect_from:
+- /about/
+- /about.html
 ---
 
 <style>
 .column-left{
   float: left;
-  width: 33%;
+  width: 65%;
   text-align: left;
+  font-family: arial;
+  font-size: 12pt;
 }
-.column-center{
-  display: inline-block;
-  width: 33%;
-  text-align: center;
-}
+
 .column-right{
   float: right;
-  width: 33%;
-  text-align: right;
+  width: 30%;
+  text-align: left;
+  font-family: arial;
+  font-size: 12pt;
 }
 </style>
 
-#### This section will have three columns
-
 <div class="column-left">
-**1** one  
-**2** two  
+## About Me
+Hi there! I am Shriti. I am a Ph.D. candidate at the School of Information, University of Michigan. I am a Human-Computer Interaction and a Personal Health Informatics researcher. I examine ways in which self-monitoring data is used or could be used by patients with chronic conditions and their clinicians to facilitate the care of chronic health conditions. I conceptualize, design, and evaluate novel tools and approaches to leverage personal health data towards the vision of enabling data-driven care. My research draws from the fields of human-computer interaction, sensemaking, information visualization, medicine, chronic illness management, and psychology to raise novel research questions that cut across disciplines. I use a combination of qualitative methods that include interviews, observations, focus groups, visualization-based think aloud sessions, task-driven visualization review, and user-centered design and evaluation. My work has been published in top Human-Computer Interaction venues including ACM CHI, IMWUT, and CSCW.
 </div>
-<div class="column-center">
-**3** three  
-**4** four  
-**5** five  
-**6** six  
-</div>
+
 <div class="column-right">
-**7** seven  
-**8** eight  
-**9** nine  
+## What's Happening?
+03/14/2021    Received the Rackham Predoctoral Fellowship award!
+
+03/13/2021    Presented my research to students of the Health Communication program at Northwestern.  
+
+10/26/2020    Paper accepted to UbiComp 2020  
+
+13/11/2019    Presented at UbiComp 2019  
 </div>
