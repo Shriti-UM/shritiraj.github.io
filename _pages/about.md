@@ -25,12 +25,16 @@ redirect_from:
 </style>
 
 <div class="column-left">
-## About Me
-Hi there! I am Shriti. I am a Ph.D. candidate at the School of Information, University of Michigan. I am a Human-Computer Interaction and a Personal Health Informatics researcher. I examine ways in which self-monitoring data is used or could be used by patients with chronic conditions and their clinicians to facilitate the care of chronic health conditions. I conceptualize, design, and evaluate novel tools and approaches to leverage personal health data towards the vision of enabling data-driven care. My research draws from the fields of human-computer interaction, sensemaking, information visualization, medicine, chronic illness management, and psychology to raise novel research questions that cut across disciplines. I use a combination of qualitative methods that include interviews, observations, focus groups, visualization-based think aloud sessions, task-driven visualization review, and user-centered design and evaluation. My work has been published in top Human-Computer Interaction venues including ACM CHI, IMWUT, and CSCW.
+##About Me
+Hi there! I am Shriti. I am a Ph.D. candidate at the School of Information, University of Michigan. I am ABD and on the job market for 2021-22. 
+
+I am a Human-Computer Interaction and a Personal Health Informatics researcher. I examine ways in which self-monitoring data is used or could be used by patients with chronic conditions and their clinicians to facilitate the care of chronic health conditions. I conceptualize, design, and evaluate novel tools and approaches to leverage personal health data towards the vision of enabling data-driven care. My research draws from the fields of human-computer interaction, sensemaking, information visualization, medicine, chronic illness management, and psychology to raise novel research questions that cut across disciplines. 
+
+To answer interdisciplinary research questions, I use a combination of qualitative methods that include interviews, observations, focus groups, visualization-based think aloud sessions, task-driven visualization review, and user-centered design and evaluation. My work has been published in top Human-Computer Interaction venues including ACM CHI, IMWUT, and CSCW.
 </div>
 
 <div class="column-right">
-## What's Happening?
+##What's Happening?
 03/14/2021    Received the Rackham Predoctoral Fellowship award!
 
 03/13/2021    Presented my research to students of the Health Communication program at Northwestern.  
