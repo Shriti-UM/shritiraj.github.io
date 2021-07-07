@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Shriti Raj"
-  avatar           : "profile.png"
+  avatar           : "SR_pic.jpeg"
   bio              : "Personal health informatics researcher"
-  location         : "Ann Arbor, Michigan"
+  location         : "University of Michigan, Ann Arbor"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=JX6DvU4AAAAJ&hl=en&authuser=1"
   email            :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
