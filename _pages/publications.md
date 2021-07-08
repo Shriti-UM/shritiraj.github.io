@@ -1,8 +1,10 @@
 ---
 
 title: "Publications"
-permalink: /publications/
-author_profile: true
+permalink: /publications
+redirect_from:
+- /publications/
+- /publications.html
 ---
 
 **My blood sugar is higher on the weekends”: Finding a Role for Context and Context-Awareness in the Design of Health Self-Management Technology.**\
