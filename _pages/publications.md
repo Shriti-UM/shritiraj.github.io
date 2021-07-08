@@ -2,6 +2,8 @@
 
 title:
 permalink: /publications
+redirect_from:
+- /publications.html
 ---
 
 <style>
