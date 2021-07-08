@@ -1,9 +1,7 @@
 ---
 
-title: "Publications"
+title:
 permalink: /publications
-redirect_from:
-- /publications.html
 ---
 
 **Toward Lightweight In-situ Self-reporting: An Exploratory Study of Alternative Smartwatch Interface Designs in Context.**\
