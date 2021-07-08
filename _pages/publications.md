@@ -1,9 +1,7 @@
 ---
 
-title:
+title: "Publications"
 permalink: /publications
-redirect_from:
-- /publications.html
 ---
 
 <style>
