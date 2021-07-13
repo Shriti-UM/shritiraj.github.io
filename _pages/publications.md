@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: Publications
+title: 
 author_profile: yes
 ---
 
@@ -11,6 +11,7 @@ author_profile: yes
 }
 </style>
 
+<p style="font-size: 18pt; font-style: bold;">Publications</p>
 
 **Toward Lightweight In-situ Self-reporting: An Exploratory Study of Alternative Smartwatch Interface Designs in Context.**\
 Xinghui Yan, Shriti Raj, Bingjian Huang, Sun Young Park, and Mark W. Newman.\
