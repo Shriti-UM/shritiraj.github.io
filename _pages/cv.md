@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](https://shriti-um.github.io/shritiraj.github.io/files/CV-upload.pdf)
+<p style="font-size: 18pt; font-style: bold;">CV</p>
+
+[PDF](https://shriti-um.github.io/shritiraj.github.io/files/CV-upload.pdf)
