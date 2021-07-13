@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](https://github.com/Shriti-UM/shritiraj.github.io/blob/master/files/CV-upload.pdf)
+[Curriculum Vitae](https://shriti-um.github.io/shritiraj.github.io/files/CV-upload.pdf)
