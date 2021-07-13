@@ -36,7 +36,7 @@ To answer interdisciplinary research questions, I use a combination of qualitati
 <div class="column-right">
 <p style="font-size: 18pt; font-style: bold;">News</p>
 
-07/07/2021    I am on the academic job market. Looking for tenure track positions.
+07/07/2021    I am on the academic job market for 2021-22. Looking for tenure track positions.
 
 04/28/2021    Defended my dissertation proposal.
 
