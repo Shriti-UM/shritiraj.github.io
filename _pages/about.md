@@ -36,15 +36,21 @@ To answer interdisciplinary research questions, I use a combination of qualitati
 <div class="column-right">
 <p style="font-size: 18pt; font-style: bold;">News</p>
 
-07/07/2021    I am on the academic job market for 2021-22. Looking for tenure track positions.
+07/07/2021    I am on the job market for 2021-22.
+
 
 04/28/2021    Defended my dissertation proposal.
 
+
 03/14/2021    Received the Rackham Predoctoral Fellowship award!
+
 
 03/13/2021    Presented my research to students of the Health Communication program at Northwestern.  
 
+
 10/26/2020    Paper accepted to UbiComp 2020.
 
+
 13/11/2019    Presented at UbiComp 2019.
+
 </div>
