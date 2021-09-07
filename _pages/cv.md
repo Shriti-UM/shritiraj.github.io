@@ -9,4 +9,4 @@ redirect_from:
 
 <p style="font-size: 18pt; font-style: bold;">CV</p>
 
-[PDF](https://shriti-um.github.io/shritiraj.github.io/files/CV-upload.pdf)
+[PDF](https://shriti-um.github.io/shritiraj.github.io/files/Shriti_Raj_CV_Aug21.pdf)
