@@ -11,9 +11,9 @@ title                    : "Shriti Raj"
 title_separator          : "-"
 name                     : &name "Shriti Raj"
 description              : &description "Researcher at University of Michigan"
-url                      : https://shriti-um.github.io/shritiraj.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shritiraj.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Shriti-UM/shritiraj.github.io"
+repository               : "Shriti-UM/shriti-um.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
